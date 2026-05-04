@@ -1,0 +1,18 @@
+tutorly-app/
+├── frontend/
+│   ├── App.js
+│   ├── screens/
+│   │   ├── HomeScreen.js
+│   │   ├── LearnScreen.js
+│   │   ├── QuizScreen.js
+│   ├── services/api.js
+│   ├── package.json
+│
+├── backend/
+│   ├── server.js
+│   ├── routes/
+│   │   ├── teach.js
+│   │   ├── quiz.js
+│   ├── package.json
+│
+├── README.md
